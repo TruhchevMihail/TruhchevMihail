@@ -32,7 +32,7 @@
 ## **Goals**
  ✅ Master Python programming  
  🌟 Build and contribute to open-source projects  
- 💻 Become a proficient software developer</p>
+ 💻 Become an experienced software developer</p>
 
 </div>
 
