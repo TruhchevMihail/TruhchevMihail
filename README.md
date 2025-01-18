@@ -49,6 +49,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=TruhchevMihail&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=TruhchevMihail&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="220" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=TruhchevMihail&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TruhchevMihail&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="180" alt="stats graph" />
 </div>
