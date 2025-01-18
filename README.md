@@ -16,19 +16,25 @@
 
 <br clear="both">
 
-<h2 align="left">Hi, I’m Mihail Truhchev from Bulgaria, currently studying Python Fundamentals at SoftUni.</h3>
- 
-# About Me  
+<div align="center">
 
-## **Skills**  
-- 🐍 **Python (in progress/Fundamentals module)**  
-- 🧩 **Problem-solving**  
-- 📘 **Continuous learning**  
+<h2>Hi, I’m Mihail Truhchev from Bulgaria, currently studying Python Fundamentals at SoftUni.</h2>
 
-## **Goals**  
-- ✅ **Master Python programming.**  
-- 🌟 **Build and contribute to open-source projects.**  
-- 💻 **Become a proficient software developer.**  
+<p>
+  
+# About Me
+
+## **Skills**
+ 🐍 Python (in progress/Fundamentals module)  
+ 🧩 Problem-solving  
+ 📘 Continuous learning  
+
+## **Goals**
+ ✅ Master Python programming  
+ 🌟 Build and contribute to open-source projects  
+ 💻 Become a proficient software developer</p>
+
+</div>
 
 <h3 align="center">🛠 Languages and Tools  </h3>
 
