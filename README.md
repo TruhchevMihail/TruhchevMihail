@@ -1,11 +1,3 @@
-<br clear="both">
-
-<div align="center">
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=TruhchevMihail.TruhchevMihail&left_color=deepskyblue&right_color=palegreen&left_text=Profile%20Views" />
-</div>
-
-###
-
 <div align="center">
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I+love+coding+in+Python;Let%27s+build+something+amazing!" />
