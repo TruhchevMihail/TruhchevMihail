@@ -10,14 +10,14 @@
 
 <div align="center">
 
-<h2>Hi, I’m Mihail Truhchev from Bulgaria, currently studying Python Fundamentals at SoftUni.</h2>
+<h2>Hi, I’m Mihail Truhchev from Bulgaria, currently studying at SoftUni.</h2>
 
 <p>
   
 # About Me
 
 ## **Skills**
- 🐍 Python (in progress/Fundamentals module)  
+ 🐍 Python (in progress/Advanced module)  
  🧩 Problem-solving  
  📘 Continuous learning  
 
