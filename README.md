@@ -17,7 +17,7 @@
 # About Me
 
 ## **Skills**
- 🐍 Python (in progress/Advanced module)  
+ 🐍 Python (in progress/Django Advance)  
  🧩 Problem-solving  
  📘 Continuous learning  
 
