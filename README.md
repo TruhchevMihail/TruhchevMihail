@@ -98,10 +98,6 @@ SkillSwapHub is a Django-based web platform where users can exchange skills and 
 
 <img src="https://streak-stats.demolab.com?user=TruhchevMihail&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="170" alt="streak graph" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=TruhchevMihail&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" height="170" alt="stats graph" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruhchevMihail&layout=compact&theme=dark&hide_border=false" height="170" alt="top languages" />
-
 </div>
 
 ---
